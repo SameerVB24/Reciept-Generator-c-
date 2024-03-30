@@ -1,3 +1,4 @@
+//This is A Simple c++ program that Generates Reciept
 #include<bits/stdc++.h>
 using namespace std;
 
